@@ -31,7 +31,7 @@ I'm **Cholthicha Khanijomdi**, a Computer Science student specializing in **Arti
 ![Always Learning](https://img.shields.io/badge/◉_ALWAYS_LEARNING-05040C?style=flat-square&labelColor=3B6782&color=05040C)
 
 <br/>
-
+<!--
 > *I don't just want to make systems that work. I want to understand why they work,  
 > how they can improve, and whether they genuinely help the person using them.*
 
@@ -40,7 +40,7 @@ I'm **Cholthicha Khanijomdi**, a Computer Science student specializing in **Arti
 <br/>
 
 <img src="./assets/heading-orbit.svg" width="100%" alt="My AI orbit" />
-
+-->
 <div align="center">
 <img src="./assets/ai-orbit.svg" width="100%" alt="Applied AI surrounded by machine, language, visual, and data intelligence" />
 </div>
@@ -56,6 +56,7 @@ I'm **Cholthicha Khanijomdi**, a Computer Science student specializing in **Arti
 <a href="https://github.com/CholthichaK/Chatbot-"><img src="./assets/project-chatbot.svg" width="49%" alt="Intelligent Chatbot project" /></a>
 
 <br/>
+
 
 [**Explore everything I’m building →**](https://github.com/CholthichaK?tab=repositories)
 
