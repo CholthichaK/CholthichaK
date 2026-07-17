@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+<defs>
+<linearGradient id="wave" x1="0" x2="1"><stop stop-color="#7C4DFF"/><stop offset=".45" stop-color="#D64B8C"/><stop offset=".72" stop-color="#6194A3"/><stop offset="1" stop-color="#3B9AAA"/></linearGradient>
+<filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="90" fill="#05040C" fill-opacity="0"/>
+<path d="M10 46H165l18-2 12-24 18 51 18-39 18 14h142l18-3 13-17 19 36 18-25 19 9h160l19-2 14-28 20 58 20-43 19 15h145l17-2 13-18 18 38 18-28 18 10h167" fill="none" stroke="url(#wave)" stroke-width="2" filter="url(#g)" stroke-dasharray="1450" stroke-dashoffset="1450">
+<animate attributeName="stroke-dashoffset" values="1450;0;0" keyTimes="0;.72;1" dur="6s" repeatCount="indefinite"/>
+</path>
+<circle r="4" fill="#C3C4C7" filter="url(#g)">
+<animateMotion dur="6s" repeatCount="indefinite" path="M10 46H165l18-2 12-24 18 51 18-39 18 14h142l18-3 13-17 19 36 18-25 19 9h160l19-2 14-28 20 58 20-43 19 15h145l17-2 13-18 18 38 18-28 18 10h167"/>
+</circle>
+</svg>
