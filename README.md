@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=17&duration=2800&pause=900&color=6194A3&center=true&vCenter=true&width=760&lines=Computer+Science+%E2%80%94+Artificial+Intelligence;Machine+Learning+Explorer;Computer+Vision+Builder;NLP+%26+LLM+Enthusiast;Building+thoughtful%2C+human-centred+AI" alt="Animated areas of focus" />
 
 <br/>
-
+<!--
 `THOUGHTFUL AI` &nbsp; ✦ &nbsp; `CURIOUS BY NATURE` &nbsp; ✦ &nbsp; `BUILDING WITH PURPOSE`
 
 </div>
@@ -16,13 +16,14 @@
 
 <img src="./assets/heading-profile.svg" width="100%" alt="Hello, I'm Cholthicha" />
 
-<div align="center">
+ <div align="center"> 
 
 ### I’m fascinated by the moment when data begins to feel intelligent.
 
 I'm **Cholthicha Khanijomdi**, a Computer Science student specializing in **Artificial Intelligence** at Stamford International University. I explore how machines understand language, recognize movement, discover patterns, and turn complex information into experiences that feel useful to people.
 
 <br/>
+-->
 
 ![Bangkok](https://img.shields.io/badge/⌖_BANGKOK-05040C?style=flat-square&labelColor=22344D&color=05040C)
 ![Computer Science](https://img.shields.io/badge/COMPUTER_SCIENCE-05040C?style=flat-square&labelColor=513568&color=05040C)
