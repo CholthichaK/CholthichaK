@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="285" viewBox="0 0 540 285">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#D64B8C"/><stop offset="1" stop-color="#9B7BEA"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="22"/></filter></defs>
+<rect width="540" height="285" rx="22" fill="#05040C"/><ellipse cx="455" cy="52" rx="135" ry="72" fill="#D64B8C" opacity=".17" filter="url(#b)"/>
+<rect x="1" y="1" width="538" height="283" rx="21" fill="none" stroke="url(#g)" stroke-opacity=".7"/>
+<text x="34" y="45" fill="#9B7BEA" font-family="monospace" font-size="11" letter-spacing="2.5">LANGUAGE INTELLIGENCE  //  02</text>
+<text x="34" y="91" fill="#F2F0F6" font-family="Arial,sans-serif" font-weight="700" font-size="25">NLP Autocorrect</text>
+<rect x="34" y="108" width="115" height="2" fill="url(#g)"/>
+<text x="34" y="140" fill="#B8BBC5" font-family="Arial,sans-serif" font-size="16">Finding the word someone meant through</text><text x="34" y="165" fill="#B8BBC5" font-family="Arial,sans-serif" font-size="16">frequency, similarity, and language patterns.</text><text x="34" y="238" fill="#9B7BEA" font-family="monospace" font-size="11">PYTHON</text><text x="136" y="238" fill="#9B7BEA" font-family="monospace" font-size="11">NLP</text><text x="238" y="238" fill="#9B7BEA" font-family="monospace" font-size="11">PANDAS</text>
+<text x="34" y="267" fill="#C3C4C7" font-family="monospace" font-size="12" letter-spacing="1.5">OPEN PROJECT  →</text>
+<circle cx="496" cy="246" r="18" fill="#D64B8C" opacity=".16" stroke="#9B7BEA"/><text x="496" y="251" text-anchor="middle" fill="#9B7BEA" font-family="monospace" font-size="16">↗</text>
+</svg>
