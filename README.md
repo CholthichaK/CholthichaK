@@ -70,17 +70,10 @@ I'm **Cholthicha Khanijomdi**, a Computer Science student specializing in **Arti
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,mysql,git,github,vscode&theme=dark" alt="Technology stack" />
 
-<br/><br/>
+<br/>
 
-**Intelligence** &nbsp; `TensorFlow` `Keras` `scikit-learn` &nbsp;&nbsp; ✦ &nbsp;&nbsp;
-**Language** &nbsp; `NLP` `RAG` `Embeddings`
-
-<br/><br/>
-
-**Vision** &nbsp; `OpenCV` `CNNs` `Motion Analysis` &nbsp;&nbsp; ✦ &nbsp;&nbsp;
-**Data** &nbsp; `Pandas` `NumPy` `Matplotlib`
-
-<br/><br/>
+`TENSORFLOW` · `KERAS` · `SCIKIT-LEARN` &nbsp; ✦ &nbsp; `NLP` · `RAG` · `EMBEDDINGS`  
+`OPENCV` · `CNNs` · `MOTION ANALYSIS` &nbsp; ✦ &nbsp; `PANDAS` · `NUMPY` · `MATPLOTLIB`
 
 <sub>Tools change. Curiosity, careful thinking, and the willingness to keep learning stay constant.</sub>
 
@@ -92,14 +85,11 @@ I'm **Cholthicha Khanijomdi**, a Computer Science student specializing in **Arti
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CholthichaK&show_icons=true&hide_border=true&bg_color=05040C&title_color=9B7BEA&text_color=C3C4C7&icon_color=6194A3&ring_color=9B7BEA" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CholthichaK&layout=compact&hide_border=true&bg_color=05040C&title_color=9B7BEA&text_color=C3C4C7" alt="Most used languages" />
-
-<br/><br/>
+### A living trail of experiments, lessons, and ideas.
 
 <img src="https://raw.githubusercontent.com/CholthichaK/CholthichaK/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
 
-<sub>Every square is a small experiment, a lesson learned, or an idea brought a little closer to life.</sub>
+<sub>Each square marks something explored, understood, improved, or brought a little closer to life.</sub>
 
 </div>
 
