@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="410" viewBox="0 0 1100 410">
+<defs>
+<radialGradient id="core"><stop stop-color="#9B7BEA" stop-opacity=".72"/><stop offset="1" stop-color="#9B7BEA" stop-opacity=".08"/></radialGradient>
+<linearGradient id="line"><stop stop-color="#9B7BEA"/><stop offset=".5" stop-color="#D64B8C"/><stop offset="1" stop-color="#6194A3"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1100" height="410" rx="22" fill="#05040C"/>
+<rect x="1" y="1" width="1098" height="408" rx="21" fill="none" stroke="#314D67" stroke-opacity=".55"/>
+<g stroke="url(#line)" stroke-width="1.4" stroke-opacity=".48" fill="none">
+<path d="M550 205L245 105"/><path d="M550 205L855 105"/><path d="M550 205L245 310"/><path d="M550 205L855 310"/>
+<ellipse cx="550" cy="205" rx="395" ry="148" stroke-dasharray="5 11" opacity=".38">
+<animateTransform attributeName="transform" type="rotate" from="0 550 205" to="360 550 205" dur="38s" repeatCount="indefinite"/>
+</ellipse>
+</g>
+<circle cx="550" cy="205" r="87" fill="url(#core)" stroke="#9B7BEA" stroke-opacity=".75" filter="url(#glow)"/>
+<text x="550" y="198" text-anchor="middle" fill="#F2F0F6" font-family="Arial,sans-serif" font-weight="700" font-size="23" letter-spacing="4">APPLIED AI</text>
+<text x="550" y="226" text-anchor="middle" fill="#C3C4C7" font-family="monospace" font-size="11" letter-spacing="2">MY CREATIVE CORE</text>
+<g font-family="Arial,sans-serif">
+<g><rect x="75" y="48" width="340" height="112" rx="18" fill="#0B0918" stroke="#9B7BEA" stroke-opacity=".55"/>
+<circle cx="108" cy="80" r="8" fill="#9B7BEA" filter="url(#glow)"/><text x="130" y="88" fill="#F2F0F6" font-weight="700" font-size="20">Machine Intelligence</text>
+<text x="108" y="119" fill="#A9ACB7" font-size="14">Learning patterns · prediction · evaluation</text><text x="108" y="141" fill="#716F7D" font-family="monospace" font-size="11">ML  /  DEEP LEARNING  /  FEATURES</text></g>
+<g><rect x="685" y="48" width="340" height="112" rx="18" fill="#071117" stroke="#6194A3" stroke-opacity=".6"/>
+<circle cx="718" cy="80" r="8" fill="#6194A3" filter="url(#glow)"/><text x="740" y="88" fill="#F2F0F6" font-weight="700" font-size="20">Language Intelligence</text>
+<text x="718" y="119" fill="#A9ACB7" font-size="14">Meaning · retrieval · conversation</text><text x="718" y="141" fill="#716F7D" font-family="monospace" font-size="11">NLP  /  LLM  /  RAG  /  EMBEDDINGS</text></g>
+<g><rect x="75" y="250" width="340" height="112" rx="18" fill="#100815" stroke="#D64B8C" stroke-opacity=".52"/>
+<circle cx="108" cy="282" r="8" fill="#D64B8C" filter="url(#glow)"/><text x="130" y="290" fill="#F2F0F6" font-weight="700" font-size="20">Visual Intelligence</text>
+<text x="108" y="321" fill="#A9ACB7" font-size="14">Motion · vision · image understanding</text><text x="108" y="343" fill="#716F7D" font-family="monospace" font-size="11">CNN  /  OPENCV  /  RECOGNITION</text></g>
+<g><rect x="685" y="250" width="340" height="112" rx="18" fill="#071115" stroke="#3B9AAA" stroke-opacity=".55"/>
+<circle cx="718" cy="282" r="8" fill="#3B9AAA" filter="url(#glow)"/><text x="740" y="290" fill="#F2F0F6" font-weight="700" font-size="20">Data Intelligence</text>
+<text x="718" y="321" fill="#A9ACB7" font-size="14">Preparation · analysis · insight</text><text x="718" y="343" fill="#716F7D" font-family="monospace" font-size="11">PANDAS  /  NUMPY  /  VISUALIZATION</text></g>
+</g></svg>
