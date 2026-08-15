@@ -29,7 +29,7 @@ I’m **Cholthicha**, an AI developer and creative technologist based in Bangkok
 ### ✦ My toolkit
 
 <div align="center">
-<a href="https://cholthicha-portfolio.netlify.app/"><img src="./assets/tech-keyboard.svg" width="100%" alt="A colorful 3D keyboard with technology logos on its keys" /></a>
+<a href="https://cholthicha-portfolio.netlify.app/"><img src="./assets/tech-keyboard-3d.webp" width="100%" alt="A photorealistic colorful 3D keyboard with technology logos on its keys" /></a>
 </div>
 
 </td>
