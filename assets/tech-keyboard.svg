@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+  <title id="title">Cholthicha's technology keyboard</title>
+  <desc id="desc">A colorful angled keyboard with programming languages, libraries, AI tools, analytics platforms, and development tools on the keys.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0d16"/><stop offset="1" stop-color="#151225"/></linearGradient>
+    <linearGradient id="board" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#25233a"/><stop offset="1" stop-color="#11131f"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8B5CF6"/><stop offset=".34" stop-color="#EC4899"/><stop offset=".68" stop-color="#06B6D4"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-40%" width="170%" height="190%"><feDropShadow dx="18" dy="25" stdDeviation="17" flood-color="#000" flood-opacity=".58"/></filter>
+    <filter id="keyshadow" x="-20%" y="-20%" width="150%" height="170%"><feDropShadow dx="3" dy="7" stdDeviation="3" flood-color="#05050a" flood-opacity=".75"/></filter>
+    <style>
+      .key{rx:9;stroke:#ffffff;stroke-opacity:.14;stroke-width:1.2;filter:url(#keyshadow)}
+      .t{fill:#fff;font-family:Inter,Segoe UI,Arial,sans-serif;font-size:14px;font-weight:700;text-anchor:middle;dominant-baseline:middle}
+      .sm{font-size:12px}.xs{font-size:10.5px}.violet{fill:#8B5CF6}.pink{fill:#EC4899}.cyan{fill:#06B6D4}.amber{fill:#F59E0B}.deep{fill:#31334d}
+    </style>
+  </defs>
+  <rect width="1200" height="470" rx="28" fill="url(#bg)"/>
+  <circle cx="92" cy="82" r="115" fill="#8B5CF6" opacity=".08"/><circle cx="1090" cy="380" r="150" fill="#06B6D4" opacity=".07"/>
+  <g transform="translate(70 78) rotate(-4 530 160) skewX(-5)" filter="url(#shadow)">
+    <rect x="0" y="0" width="1060" height="330" rx="30" fill="url(#board)" stroke="url(#edge)" stroke-width="4"/>
+    <rect x="18" y="18" width="1024" height="294" rx="22" fill="#0c0e18" stroke="#ffffff" stroke-opacity=".08"/>
+
+    <!-- Row 1: languages -->
+    <g><rect class="key violet" x="38" y="40" width="105" height="48"/><text class="t" x="90.5" y="64">Python</text></g>
+    <g><rect class="key pink" x="152" y="40" width="74" height="48"/><text class="t" x="189" y="64">R</text></g>
+    <g><rect class="key cyan" x="235" y="40" width="88" height="48"/><text class="t" x="279" y="64">SQL</text></g>
+    <g><rect class="key amber" x="332" y="40" width="88" height="48"/><text class="t" x="376" y="64">Java</text></g>
+    <g><rect class="key pink" x="429" y="40" width="92" height="48"/><text class="t" x="475" y="64">HTML</text></g>
+    <g><rect class="key violet" x="530" y="40" width="82" height="48"/><text class="t" x="571" y="64">CSS</text></g>
+    <g><rect class="key cyan" x="621" y="40" width="126" height="48"/><text class="t" x="684" y="64">JavaScript</text></g>
+    <g><rect class="key amber" x="756" y="40" width="118" height="48"/><text class="t sm" x="815" y="64">Bash Script</text></g>
+    <g><rect class="key deep" x="883" y="40" width="139" height="48"/><text class="t sm" x="952.5" y="64">⌫  CODE</text></g>
+
+    <!-- Row 2: libraries -->
+    <g><rect class="key deep" x="38" y="98" width="104" height="48"/><text class="t sm" x="90" y="122">LIBRARIES</text></g>
+    <g><rect class="key cyan" x="151" y="98" width="104" height="48"/><text class="t" x="203" y="122">Pandas</text></g>
+    <g><rect class="key violet" x="264" y="98" width="100" height="48"/><text class="t" x="314" y="122">NumPy</text></g>
+    <g><rect class="key pink" x="373" y="98" width="112" height="48"/><text class="t" x="429" y="122">Seaborn</text></g>
+    <g><rect class="key amber" x="494" y="98" width="126" height="48"/><text class="t sm" x="557" y="122">Matplotlib</text></g>
+    <g><rect class="key cyan" x="629" y="98" width="132" height="48"/><text class="t sm" x="695" y="122">Scikit-learn</text></g>
+    <g><rect class="key pink" x="770" y="98" width="104" height="48"/><text class="t" x="822" y="122">OpenCV</text></g>
+    <g><rect class="key violet" x="883" y="98" width="139" height="48"/><text class="t sm" x="952.5" y="122">TensorFlow</text></g>
+
+    <!-- Row 3: AI and development -->
+    <g><rect class="key deep" x="38" y="156" width="128" height="48"/><text class="t sm" x="102" y="180">AI + DEV</text></g>
+    <g><rect class="key pink" x="175" y="156" width="92" height="48"/><text class="t" x="221" y="180">Keras</text></g>
+    <g><rect class="key cyan" x="276" y="156" width="108" height="48"/><text class="t" x="330" y="180">FastAPI</text></g>
+    <g><rect class="key amber" x="393" y="156" width="112" height="48"/><text class="t" x="449" y="180">Jupyter</text></g>
+    <g><rect class="key violet" x="514" y="156" width="94" height="48"/><text class="t" x="561" y="180">NLP</text></g>
+    <g><rect class="key pink" x="617" y="156" width="90" height="48"/><text class="t" x="662" y="180">RAG</text></g>
+    <g><rect class="key cyan" x="716" y="156" width="104" height="48"/><text class="t" x="768" y="180">GitHub</text></g>
+    <g><rect class="key amber" x="829" y="156" width="90" height="48"/><text class="t" x="874" y="180">Git</text></g>
+    <g><rect class="key violet" x="928" y="156" width="94" height="48"/><text class="t sm" x="975" y="180">VS Code</text></g>
+
+    <!-- Row 4: analytics and platforms -->
+    <g><rect class="key deep" x="38" y="214" width="148" height="48"/><text class="t sm" x="112" y="238">TOOLS + DATA</text></g>
+    <g><rect class="key amber" x="195" y="214" width="82" height="48"/><text class="t" x="236" y="238">AWS</text></g>
+    <g><rect class="key cyan" x="286" y="214" width="118" height="48"/><text class="t" x="345" y="238">Power BI</text></g>
+    <g><rect class="key pink" x="413" y="214" width="118" height="48"/><text class="t sm" x="472" y="238">Excel · Adv.</text></g>
+    <g><rect class="key violet" x="540" y="214" width="98" height="48"/><text class="t" x="589" y="238">MySQL</text></g>
+    <g><rect class="key amber" x="647" y="214" width="84" height="48"/><text class="t" x="689" y="238">n8n</text></g>
+    <g><rect class="key cyan" x="740" y="214" width="112" height="48"/><text class="t" x="796" y="238">AI Studio</text></g>
+    <g><rect class="key pink" x="861" y="214" width="100" height="48"/><text class="t" x="911" y="238">Figma</text></g>
+    <g><rect class="key violet" x="970" y="214" width="52" height="48"/><text class="t" x="996" y="238">↵</text></g>
+
+    <!-- Row 5: automation spacebar -->
+    <g><rect class="key deep" x="150" y="272" width="112" height="28"/><text class="t xs" x="206" y="286">CTRL</text></g>
+    <g><rect class="key violet" x="271" y="272" width="470" height="28"/><text class="t xs" x="506" y="286">POWER AUTOMATE  ·  RAPIDMINER  ·  AUTOMATION</text></g>
+    <g><rect class="key deep" x="750" y="272" width="112" height="28"/><text class="t xs" x="806" y="286">ALT</text></g>
+  </g>
+</svg>
