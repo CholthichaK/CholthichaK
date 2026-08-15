@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:8B5CF6,34:EC4899,68:06B6D4,100:F59E0B&text=CHOLTHICHA%20KHANIJOMDI&fontColor=FFFFFF&fontSize=36&fontAlignY=36&desc=AI%20ENGINEERING%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20AUTOMATION&descAlignY=56&descSize=15&animation=fadeIn" width="100%" alt="Cholthicha Khanijomdi — AI Engineering, Machine Learning, and Automation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:8B5CF6,34:EC4899,68:06B6D4,100:F59E0B&text=CHOLTHICHA%20KHANIJOMDI&fontColor=FFFFFF&fontSize=36&fontAlignY=36&desc=AI%20DEVELOPER%20%E2%80%A2%20CREATIVE%20TECHNOLOGIST&descAlignY=56&descSize=15&animation=fadeIn" width="100%" alt="Cholthicha Khanijomdi — AI Developer and Creative Technologist" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=17&duration=2800&pause=900&color=E879F9&center=true&vCenter=true&width=780&lines=Building+practical+AI+systems;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP;Automating+workflows+from+data+to+decision." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=17&duration=2800&pause=900&color=E879F9&center=true&vCenter=true&width=780&lines=Building+human-centred+AI;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+Data+%E2%80%A2+Automation;Always+learning.+Always+building." alt="Animated introduction" />
 
 <br />
 
-![AI Engineering](https://img.shields.io/badge/AI_ENGINEERING-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-![ML Systems](https://img.shields.io/badge/ML_SYSTEMS-06B6D4?style=flat-square&logo=tensorflow&logoColor=white)
-![Automation](https://img.shields.io/badge/AUTOMATION-F59E0B?style=flat-square&logo=n8n&logoColor=white)
-![Bangkok](https://img.shields.io/badge/BANGKOK-1F2937?style=flat-square&logo=googlemaps&logoColor=white)
+![AI Developer](https://img.shields.io/badge/AI_DEVELOPER-8B5CF6?style=flat-square&logo=openai&logoColor=white)
+![Bangkok](https://img.shields.io/badge/BANGKOK-EC4899?style=flat-square&logo=googlemaps&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-06B6D4?style=flat-square&logo=opencv&logoColor=white)
+![Human-Centred AI](https://img.shields.io/badge/HUMAN--CENTRED_AI-F59E0B?style=flat-square&logoColor=white)
 
 </div>
 
 <div align="center">
 
-I’m **Cholthicha** — I build practical AI and machine-learning systems, from computer vision and NLP prototypes to data pipelines, APIs, and workflow automation.
+I’m **Cholthicha** — an AI developer and creative technologist building thoughtful systems across machine learning, computer vision, NLP, data analytics, and automation.
 
 ## Languages & tools
 
@@ -23,13 +23,13 @@ I’m **Cholthicha** — I build practical AI and machine-learning systems, from
 
 <br /><br />
 
+![n8n](https://img.shields.io/badge/N8N-EC4899?style=flat-square&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/POWER_AUTOMATE-06B6D4?style=flat-square&logo=powerautomate&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-4DABCF?style=flat-square&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER_BI-F59E0B?style=flat-square&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/ADVANCED_EXCEL-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![n8n](https://img.shields.io/badge/N8N-EC4899?style=flat-square&logo=n8n&logoColor=white)
 ![RapidMiner](https://img.shields.io/badge/RAPIDMINER-8B5CF6?style=flat-square&logoColor=white)
-![Power Automate](https://img.shields.io/badge/POWER_AUTOMATE-06B6D4?style=flat-square&logo=powerautomate&logoColor=white)
 
 ## GitHub stats
 
