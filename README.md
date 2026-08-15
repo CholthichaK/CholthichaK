@@ -13,20 +13,29 @@
 
 </div>
 
-<a href="https://cholthicha-portfolio.netlify.app/"><img align="right" src="./assets/tech-keyboard-compact.png" width="40%" alt="A compact dark 3D keyboard with technology logos" /></a>
-
-### ✦ My toolkit
+<div align="center">
 
 I’m **Cholthicha** — an AI developer and creative technologist building thoughtful systems across machine learning, computer vision, NLP, data analytics, and automation.
 
-`PYTHON` · `JAVA` · `SQL` · `AI/ML`  
-`COMPUTER VISION` · `NLP` · `DATA` · `AUTOMATION`
+## Languages & tools
 
-<sub>Click the keyboard to explore my work.</sub>
+<img src="https://skillicons.dev/icons?i=python,r,java,js,html,css,bash,tensorflow,opencv,sklearn,fastapi,mysql,git,github,vscode,figma,aws&theme=dark&perline=17" alt="Programming languages, AI libraries, and development tools" />
 
-<br clear="right" />
+<br /><br />
 
-<div align="center">
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-4DABCF?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-F59E0B?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/ADVANCED_EXCEL-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![n8n](https://img.shields.io/badge/N8N-EC4899?style=flat-square&logo=n8n&logoColor=white)
+![RapidMiner](https://img.shields.io/badge/RAPIDMINER-8B5CF6?style=flat-square&logoColor=white)
+![Power Automate](https://img.shields.io/badge/POWER_AUTOMATE-06B6D4?style=flat-square&logo=powerautomate&logoColor=white)
+
+## GitHub stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CholthichaK&theme=tokyonight" width="32%" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CholthichaK&theme=tokyonight&utcOffset=7" width="32%" alt="Most productive coding time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CholthichaK&theme=tokyonight" width="32%" alt="Most committed languages" />
 
 ## Selected work
 
