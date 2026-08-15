@@ -13,33 +13,13 @@
 
 </div>
 
-<br />
-
-<table>
-<tr>
-<td width="48%" valign="top">
-
-### ✦ About me
-
-I’m **Cholthicha**, an AI developer and creative technologist based in Bangkok. I build useful systems across machine learning, computer vision, NLP, data analytics, and automation.
-
-> Thoughtful technology, built with curiosity and purpose.
-
-</td>
-<td width="52%" valign="top">
-
-### ✦ My toolkit
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,opencv,sklearn,fastapi,mysql,git,github,vscode&theme=dark&perline=10" width="100%" alt="Technology stack" />
 
-`ML` · `COMPUTER VISION` · `NLP & RAG`  
-`DATA` · `APIs` · `AUTOMATION`
+I’m **Cholthicha**, an AI developer and creative technologist building useful systems across machine learning, computer vision, NLP, data analytics, and automation.
+
+<img src="./assets/tech-keyboard.svg" width="100%" alt="A colorful angled keyboard showing Cholthicha's technology stack" />
+
 </div>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
