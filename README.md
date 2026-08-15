@@ -19,7 +19,7 @@ I’m **Cholthicha** — an AI developer and creative technologist building thou
 
 ### ✦ My toolkit
 
-<a href="https://cholthicha-portfolio.netlify.app/"><img src="./assets/tech-keyboard-3d.webp" width="100%" alt="A photorealistic colorful 3D keyboard with technology logos on its keys" /></a>
+<a href="https://cholthicha-portfolio.netlify.app/"><img src="./assets/tech-keyboard-3d.webp" width="66%" alt="A photorealistic dark 3D keyboard with technology logos on its keys" /></a>
 
 ## Selected work
 
