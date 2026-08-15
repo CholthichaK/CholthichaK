@@ -13,38 +13,20 @@
 
 </div>
 
-<table>
-<tr>
-<td width="40%" valign="middle">
+<div align="center">
 
-### ✦ About me
-
-I’m **Cholthicha**, an AI developer and creative technologist based in Bangkok. I build useful systems across machine learning, computer vision, NLP, data analytics, and automation.
-
-> Thoughtful technology, built with curiosity and purpose.
-
-</td>
-<td width="60%" valign="middle">
+I’m **Cholthicha** — an AI developer and creative technologist building thoughtful systems across machine learning, computer vision, NLP, data analytics, and automation.
 
 ### ✦ My toolkit
 
-<div align="center">
 <a href="https://cholthicha-portfolio.netlify.app/"><img src="./assets/tech-keyboard-3d.webp" width="100%" alt="A photorealistic colorful 3D keyboard with technology logos on its keys" /></a>
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 
 ## Selected work
 
-<a href="https://github.com/CholthichaK/Human-Detection-and-Motion-Analysis-System-CNN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CholthichaK&repo=Human-Detection-and-Motion-Analysis-System-CNN&hide_border=true&bg_color=DEG,1B1235,42275A,734B9B&title_color=F9A8D4&text_color=F5E9FF&icon_color=67E8F9" width="32%" alt="Human Detection and Motion Analysis" /></a>
-<a href="https://github.com/CholthichaK/NLP-Autocorrect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CholthichaK&repo=NLP-Autocorrect&hide_border=true&bg_color=DEG,102A43,176B87,64CCC5&title_color=FDE68A&text_color=ECFEFF&icon_color=F9A8D4" width="32%" alt="NLP Autocorrect" /></a>
-<a href="https://github.com/CholthichaK/Chatbot-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CholthichaK&repo=Chatbot-&hide_border=true&bg_color=DEG,3B185F,A12568,E85D75&title_color=FDE68A&text_color=FFF1F2&icon_color=67E8F9" width="32%" alt="Intelligent Chatbot" /></a>
-
-[**See all repositories →**](https://github.com/CholthichaK?tab=repositories)
+<a href="https://github.com/CholthichaK/Human-Detection-and-Motion-Analysis-System-CNN"><img src="https://img.shields.io/badge/HUMAN_MOTION_AI-8B5CF6?style=for-the-badge&logo=opencv&logoColor=white" alt="Human Motion AI" /></a>
+<a href="https://github.com/CholthichaK/NLP-Autocorrect"><img src="https://img.shields.io/badge/NLP_AUTOCORRECT-06B6D4?style=for-the-badge&logo=probot&logoColor=white" alt="NLP Autocorrect" /></a>
+<a href="https://github.com/CholthichaK/Chatbot-"><img src="https://img.shields.io/badge/INTELLIGENT_CHATBOT-F59E0B?style=for-the-badge&logo=openai&logoColor=white" alt="Intelligent Chatbot" /></a>
+<a href="https://github.com/CholthichaK?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
 
 <br />
 
