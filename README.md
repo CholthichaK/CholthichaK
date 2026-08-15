@@ -13,13 +13,20 @@
 
 </div>
 
-<div align="center">
-
-I’m **Cholthicha** — an AI developer and creative technologist building thoughtful systems across machine learning, computer vision, NLP, data analytics, and automation.
+<a href="https://cholthicha-portfolio.netlify.app/"><img align="right" src="./assets/tech-keyboard-compact.png" width="40%" alt="A compact dark 3D keyboard with technology logos" /></a>
 
 ### ✦ My toolkit
 
-<a href="https://cholthicha-portfolio.netlify.app/"><img src="./assets/tech-keyboard-3d.webp" width="66%" alt="A photorealistic dark 3D keyboard with technology logos on its keys" /></a>
+I’m **Cholthicha** — an AI developer and creative technologist building thoughtful systems across machine learning, computer vision, NLP, data analytics, and automation.
+
+`PYTHON` · `JAVA` · `SQL` · `AI/ML`  
+`COMPUTER VISION` · `NLP` · `DATA` · `AUTOMATION`
+
+<sub>Click the keyboard to explore my work.</sub>
+
+<br clear="right" />
+
+<div align="center">
 
 ## Selected work
 
