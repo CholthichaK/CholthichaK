@@ -1,117 +1,121 @@
 <div align="center">
 
-<img src="./assets/neural-aurora-header.svg" width="100%" alt="Cholthicha Khanijomdi — Artificial Intelligence" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:8B5CF6,34:EC4899,68:06B6D4,100:F59E0B&text=CHOLTHICHA%20KHANIJOMDI&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=AI%20DEVELOPER%20%E2%80%A2%20CREATIVE%20TECHNOLOGIST&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Cholthicha Khanijomdi — AI Developer and Creative Technologist" />
 
-<br/>
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=17&duration=2800&pause=900&color=6194A3&center=true&vCenter=true&width=760&lines=Computer+Science+%E2%80%94+Artificial+Intelligence;Machine+Learning+Explorer;Computer+Vision+Builder;NLP+%26+LLM+Enthusiast;Building+thoughtful%2C+human-centred+AI" alt="Animated areas of focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=18&duration=2800&pause=900&color=E879F9&center=true&vCenter=true&width=760&lines=AI+Developer+%C3%97+Creative+Technologist;Teaching+machines+to+see%2C+understand%2C+and+assist;Turning+data+into+useful+human-centred+systems;Always+learning.+Always+building." alt="Animated introduction" />
 
-<br/>
-<!--
-`THOUGHTFUL AI` &nbsp; ✦ &nbsp; `CURIOUS BY NATURE` &nbsp; ✦ &nbsp; `BUILDING WITH PURPOSE`
-
-</div>
-
-<br/>
-
-<img src="./assets/heading-profile.svg" width="100%" alt="Hello, I'm Cholthicha" />
-
- <div align="center"> 
-
-### I’m fascinated by the moment when data begins to feel intelligent.
-
-I'm **Cholthicha Khanijomdi**, a Computer Science student specializing in **Artificial Intelligence** at Stamford International University. I explore how machines understand language, recognize movement, discover patterns, and turn complex information into experiences that feel useful to people.
-
-<br/>
--->
-
-![Bangkok](https://img.shields.io/badge/⌖_BANGKOK-05040C?style=flat-square&labelColor=22344D&color=05040C)
-![Computer Science](https://img.shields.io/badge/COMPUTER_SCIENCE-05040C?style=flat-square&labelColor=513568&color=05040C)
-![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-05040C?style=flat-square&labelColor=314D67&color=05040C)
-![Always Learning](https://img.shields.io/badge/◉_ALWAYS_LEARNING-05040C?style=flat-square&labelColor=3B6782&color=05040C)
-
-<br/>
-<!--
-> *I don't just want to make systems that work. I want to understand why they work,  
-> how they can improve, and whether they genuinely help the person using them.*
+<p>
+  <a href="https://cholthicha-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/cholthicha-khanijomdi/"><img src="https://img.shields.io/badge/LINKEDIN-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:cholthicha0272@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
-<br/>
-
-<img src="./assets/heading-orbit.svg" width="100%" alt="My AI orbit" />
--->
-<div align="center">
-<img src="./assets/ai-orbit.svg" width="100%" alt="Applied AI surrounded by machine, language, visual, and data intelligence" />
-</div>
-
-<br/>
-
-<img src="./assets/heading-projects.svg" width="100%" alt="Selected work" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:8B5CF6,100:EC4899&text=HELLO%2C%20I'M%20CHOLTHICHA&fontColor=FFFFFF&fontSize=22&fontAlignY=52" width="100%" alt="Hello, I'm Cholthicha" />
 
 <div align="center">
 
-<a href="https://github.com/CholthichaK/Human-Detection-and-Motion-Analysis-System-CNN"><img src="./assets/project-motion.svg" width="49%" alt="Human Motion Recognition project" /></a>
-<a href="https://github.com/CholthichaK/NLP-Autocorrect"><img src="./assets/project-autocorrect.svg" width="49%" alt="NLP Autocorrect project" /></a>
-<a href="https://github.com/CholthichaK/Chatbot-"><img src="./assets/project-chatbot.svg" width="49%" alt="Intelligent Chatbot project" /></a>
+### I like the moment when data begins to feel intelligent.
 
-<br/>
+I’m **Cholthicha Khanijomdi**, an **AI developer and creative technologist** based in Bangkok. I build practical systems across machine learning, computer vision, NLP, data analytics, and automation—with a focus on technology that is genuinely useful to people.
 
-
-[**Explore everything I’m building →**](https://github.com/CholthichaK?tab=repositories)
+`AI DEVELOPER` &nbsp; ✦ &nbsp; `CURIOUS BUILDER` &nbsp; ✦ &nbsp; `HUMAN-CENTRED THINKER`
 
 </div>
 
-<br/>
+<br />
 
-<img src="./assets/heading-stack.svg" width="100%" alt="Tools in my universe" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:EC4899,100:06B6D4&text=MY%20AI%20ORBIT&fontColor=FFFFFF&fontSize=22&fontAlignY=52" width="100%" alt="My AI orbit" />
+
+<div align="center">
+  <img src="./assets/ai-orbit.svg" width="100%" alt="Applied AI surrounded by language, visual, machine, and data intelligence" />
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:06B6D4,100:8B5CF6&text=SELECTED%20WORK&fontColor=FFFFFF&fontSize=22&fontAlignY=52" width="100%" alt="Selected work" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,mysql,git,github,vscode&theme=dark" alt="Technology stack" />
+<a href="https://github.com/CholthichaK/Human-Detection-and-Motion-Analysis-System-CNN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CholthichaK&repo=Human-Detection-and-Motion-Analysis-System-CNN&hide_border=true&bg_color=DEG,1B1235,42275A,734B9B&title_color=F9A8D4&text_color=F5E9FF&icon_color=67E8F9" width="49%" alt="Human Detection and Motion Analysis repository" /></a>
+<a href="https://github.com/CholthichaK/NLP-Autocorrect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CholthichaK&repo=NLP-Autocorrect&hide_border=true&bg_color=DEG,102A43,176B87,64CCC5&title_color=FDE68A&text_color=ECFEFF&icon_color=F9A8D4" width="49%" alt="NLP Autocorrect repository" /></a>
 
-<br/>
+<br />
 
-`TENSORFLOW` · `KERAS` · `SCIKIT-LEARN` &nbsp; ✦ &nbsp; `NLP` · `RAG` · `EMBEDDINGS`  
-`OPENCV` · `CNNs` · `MOTION ANALYSIS` &nbsp; ✦ &nbsp; `PANDAS` · `NUMPY` · `MATPLOTLIB`
+<a href="https://github.com/CholthichaK/Chatbot-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CholthichaK&repo=Chatbot-&hide_border=true&bg_color=DEG,3B185F,A12568,E85D75&title_color=FDE68A&text_color=FFF1F2&icon_color=67E8F9" width="49%" alt="Intelligent Chatbot repository" /></a>
+
+<br /><br />
+
+![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-8B5CF6?style=flat-square&logo=opencv&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-EC4899?style=flat-square&logo=probot&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-06B6D4?style=flat-square&logo=tensorflow&logoColor=white)
+![Human-Centred AI](https://img.shields.io/badge/HUMAN--CENTRED_AI-F59E0B?style=flat-square&logo=sparkles&logoColor=white)
+
+</div>
+
+<div align="center">
+
+[**Explore all repositories →**](https://github.com/CholthichaK?tab=repositories)
+
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:8B5CF6,50:EC4899,100:F59E0B&text=TOOLS%20IN%20MY%20UNIVERSE&fontColor=FFFFFF&fontSize=22&fontAlignY=52" width="100%" alt="Tools in my universe" />
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,opencv,sklearn,fastapi,mysql,git,github,vscode&theme=dark" alt="Python, Java, TensorFlow, OpenCV, scikit-learn, FastAPI, MySQL, Git, GitHub, and VS Code" />
+
+<br /><br />
+
+`MACHINE LEARNING` · `COMPUTER VISION` · `NLP & RAG`  
+`DATA ANALYTICS` · `API DEVELOPMENT` · `WORKFLOW AUTOMATION`
 
 <sub>Tools change. Curiosity, careful thinking, and the willingness to keep learning stay constant.</sub>
 
 </div>
 
-<br/>
+<br />
 
-<img src="./assets/heading-analytics.svg" width="100%" alt="Signal and activity" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:F59E0B,100:EC4899&text=SIGNAL%20%26%20ACTIVITY&fontColor=FFFFFF&fontSize=22&fontAlignY=52" width="100%" alt="Signal and activity" />
 
 <div align="center">
 
 ### A living trail of experiments, lessons, and ideas.
 
-<img src="https://raw.githubusercontent.com/CholthichaK/CholthichaK/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CholthichaK/CholthichaK/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CholthichaK/CholthichaK/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/CholthichaK/CholthichaK/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+</picture>
 
 <sub>Each square marks something explored, understood, improved, or brought a little closer to life.</sub>
 
 </div>
 
-<br/>
+<br />
 
-<img src="./assets/heading-connect.svg" width="100%" alt="Let's create something" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:EC4899,50:8B5CF6,100:06B6D4&text=LET'S%20CREATE%20SOMETHING&fontColor=FFFFFF&fontSize=22&fontAlignY=52" width="100%" alt="Let's create something" />
 
 <div align="center">
 
-### Have an idea involving AI, language, vision, or data?
+### Have an idea involving AI, language, vision, data, or automation?
 
-I’m always happy to meet curious people, exchange ideas, and discover something new.
+I’m open to internships, collaborations, and conversations with people building thoughtful technology.
 
-<br/>
+<br />
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-05040C?style=for-the-badge&logo=vercel&logoColor=C3C4C7)](https://cholthicha-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-22344D?style=for-the-badge&logo=linkedin&logoColor=C3C4C7)](https://www.linkedin.com/in/cholthicha-khanijomdi/)
-[![Email](https://img.shields.io/badge/SEND_A_SIGNAL-513568?style=for-the-badge&logo=gmail&logoColor=C3C4C7)](mailto:cholthicha0272@gmail.com)
+<a href="https://cholthicha-portfolio.netlify.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
+<a href="https://www.linkedin.com/in/cholthicha-khanijomdi/"><img src="https://img.shields.io/badge/LET'S_CONNECT-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:cholthicha0272@gmail.com"><img src="https://img.shields.io/badge/SEND_A_SIGNAL-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
 
-<br/>
+<br /><br />
 
-<img src="./assets/neural-wave-footer.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8B5CF6,34:EC4899,68:06B6D4,100:F59E0B" width="100%" alt="" />
 
 *Learning continuously · Building thoughtfully · Staying curious*
 
